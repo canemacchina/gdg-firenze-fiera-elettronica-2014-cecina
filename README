@@ -6,18 +6,22 @@ Le slide proposte durante il seminario sono consultabili su SlideShare: http://w
 
 Di seguito una rapida descrizione dei file che si trovano in questo repository.
 
-Demo Cecina
+/Demo Cecina/
 	In questa cartella sono presenti i sorgenti della mini applicazione creata durante il seminario.
 	Si ricorda che l'applicazione è online all'indirizzo http://practical-brace-632.appspot.com/
 	
-gae-java-python-go-php
-	in questa cartella si trovano gli esempi in tutti i linguaggi utilizzati da Google App Engine
+/gae-java-python-go-php/
+	in questa cartella si trovano gli esempi in tutti i linguaggi utilizzati da Google App Engine. Gli esempi hanno la stessa logica, l'obbietivo era notare le differenze fra i linguaggi disponibili.
 	goapp - Go http://go1.aqquadro-hrd.appspot.com/
+		In Go non sono risultate necessarie librerie esterne
 	phpapp - PHP http://php1.aqquadro-hrd.appspot.com/
+		Utilizzato Tonic(http://www.peej.co.uk/tonic/) come request dispatcher e Twig(http://twig.sensiolabs.org/) come template engine
 	pyapp - Python http://py1.aqquadro-hrd.appspot.com/
+		Utilizzato webapp2(https://developers.google.com/appengine/docs/python/tools/webapp2) come request dispatcher e Jinja2(http://jinja.pocoo.org/) come template engine
 	website - Java http://sleep.aqquadro-hrd.appspot.com/
+		Jersey(https://jersey.java.net/) come request dispatcher, e molto altro, e Mustache(https://mustache.github.io/) come template engine
 	
-gdg-fiera-cecina
+/gdg-fiera-cecina/
 	Google App Engine Java Hello World
 	
 
