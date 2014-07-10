@@ -1,0 +1,26 @@
+Google Developer Group - Firenze - www.gdg-firenze.info
+
+Sorgenti del seminario tenutosi il 5 Luglio 2014 all'outlet dell'elettronica a Cecina (http://www.outletdellelettronicacecina.it/).
+
+Le slide proposte durante il seminario sono consultabili su SlideShare: http://www.slideshare.net/firenzegtug/introduzione-agae-agliettibugianifieracecina
+
+Di seguito una rapida descrizione dei file che si trovano in questo repository.
+
+Demo Cecina
+	In questa cartella sono presenti i sorgenti della mini applicazione creata durante il seminario.
+	Si ricorda che l'applicazione è online all'indirizzo http://practical-brace-632.appspot.com/
+	
+gae-java-python-go-php
+	in questa cartella si trovano gli esempi in tutti i linguaggi utilizzati da Google App Engine
+	goapp - Go http://go1.aqquadro-hrd.appspot.com/
+	phpapp - PHP http://php1.aqquadro-hrd.appspot.com/
+	pyapp - Python http://py1.aqquadro-hrd.appspot.com/
+	website - Java http://sleep.aqquadro-hrd.appspot.com/
+	
+gdg-fiera-cecina
+	Google App Engine Java Hello World
+	
+
+Infine si ricorda che tutta la documentazione per muovere i primi passi su App Engine è disponibile pubblicamente all'indirizzo https://developers.google.com/appengine/
+
+have fun!
